@@ -8,7 +8,7 @@
 - ⚙️ I am skilled in: javascript, reactJS, HTML5, CSS3, jQuery, Bootstrap, NodeJS and Linux
 
 ### Connect with me:
-[<img align="left" alt="kibet" width="22px" src="]
+[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/twitter.png" />][website]
 
 <br />
 <br />
