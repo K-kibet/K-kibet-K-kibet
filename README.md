@@ -23,6 +23,11 @@
 
 [<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/dribble.png" />][dribble]
 
+[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/tiktok.png" />][tiktok]
+
+[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/reddit.png" />][reddit]
+
+
 <br />
 
 ### Languages and Tools
@@ -158,7 +163,7 @@
 <br />
 <hr />
 
-### 📕 LAtest Blog Posts
+### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -171,11 +176,13 @@
 [dribble]: https://dribbble.com/ancientpupy/about
 [youtubechannel]: https://www.youtube.com/channel/UCGuHbwfZ2JHMDBpDLGtQhjQ
 [codepen]: https://codepen.io/KKibet
+[tiktok]: https://www.tiktok.com/@ancientpupy
+[reddit]: https://www.reddit.com/user/kibetkorir
 
 [fiverr]: https://www.fiverr.com/clawn45 
 [upwork]: https://www.upwork.com/freelancers/~01d59fc71a1e549e64
 [truelancer]: https://www.truelancer.com/freelancer/charleskibet
-[freelancer]: https://www.freelancer.com
+[freelancer]: https://www.freelancer.com/u/KibetK
 [guru]: https://www.guru.com/freelancers/charles-kibet
 [latium]: https://latium.org/welcome?welcome_id=K4eo1qN2
 
