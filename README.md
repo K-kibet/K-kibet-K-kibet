@@ -31,7 +31,7 @@
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/c.png" />][website]
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/css.png" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/css.webp" />][website]
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" />][website]
 
@@ -175,7 +175,7 @@
 [fiverr]: https://www.fiverr.com/clawn45 
 [upwork]: https://www.upwork.com/freelancers/~01d59fc71a1e549e64
 [truelancer]: https://www.truelancer.com/freelancer/charleskibet
-[freelacer]: https://www.freelancer.com
+[freelancer]: https://www.freelancer.com
 [guru]: https://www.guru.com/freelancers/charles-kibet
 [latium]: https://latium.org/welcome?welcome_id=K4eo1qN2
 
