@@ -88,11 +88,11 @@
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/jquery.gif" />][website]
 
-[<img align="left alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/babel.png" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/babel.png" />][website]
 
-[<img align="left alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/framer.png" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/framer.png" />][website]
 
-[<img " alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/xml.png" />][website]
+[<img alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/xml.png" />][website]
 
 
 
@@ -130,7 +130,7 @@
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/guru.png" />][guru]
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/latium.png" />][latium]
+[<img alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/latium.png" />][latium]
 
 <br />
 <br/>
@@ -149,13 +149,14 @@
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/blogger.png" />][blogger]
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/dailydev.png" />][daily.dev]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/dailydev.webp" />][daily.dev]
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/forem.png" />][forem]
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/devrant.png" />][devrant]
+[<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/devrant.png" />][devrant]
 
 <br />
+<hr />
 
 ### 📕 LAtest Blog Posts
 
