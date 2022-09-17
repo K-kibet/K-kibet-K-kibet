@@ -41,9 +41,9 @@
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/jquery.gif" />][website]
 
-[<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/framer.png" />][]
+[<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/framer.png" />][website]
 
-[<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/babel.png" />]
+[<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/babel.png" />][website]
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/mui.png" />][website]
 
