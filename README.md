@@ -1,7 +1,6 @@
 ### 👋 Hi there, I am Kibet 
-## 🌱 I’m am a full stack engineer.
-## 💞️ I’m looking forward to collaborating and landing my first job.
-
+- 🌱 I’m am a full stack engineer.
+- 💞️ I’m looking forward to collaborating and landing my first job.
 - I'm currently working on tech documentation website
 - I'm currently learning graphql 
 - 📫 Reach to me using this link [https://k-kibet.github.io]
@@ -28,6 +27,7 @@
 [<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/reddit.png" />][reddit]
 
 
+<br />
 <br />
 
 ### Languages and Tools
@@ -123,6 +123,7 @@
 
 
 <br />
+<br />
 
 ## Buy my services
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/fiverr.png" />][fiverr]
@@ -161,12 +162,17 @@
 [<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/devrant.png" />][devrant]
 
 <br />
-<hr />
+<br />
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 
 ### 📕 Latest Blog Posts
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 
 [website]: https://k-kibet.github.io/
 [facebook]: https://www.facebook.com/kibetkorirc
