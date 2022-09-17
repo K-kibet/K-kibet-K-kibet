@@ -21,40 +21,45 @@
 
 [<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/youtube.png" />][youtube] 
 
-[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/twitter.png" />][dribble]
+[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/dribble.png" />][dribble]
 
 <br />
 
 ### Languages and Tools
 
-[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/twitter.png" />][]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/c.png" />][website]
 
-[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/kotlin.png" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/kotlin.png" />][website]
 
-[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/java.png" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/java.png" />][website]
 
-[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/bootstrap.png" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/Bootstrap_logo.svg.png" />][website]
 
-[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/express.png" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/express.png" />][website]
 
-[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/git.png" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/git.png" />][website]
 
-[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/jquery.gif" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/jquery.gif" />][website]
 
-[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/framer.png" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/framer.png" />][website]
 
-[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/babel.png" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/babel.png" />][website]
 
-[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/mui.png" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/mui.png" />][website]
 
-[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/sass.png" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/sass.png" />][website]
 
-[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/node1.png" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/node1.png" />][website]
 
-[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/linux.png" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/linux.png" />][website]
 
-[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" />][website]
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" />][website]
 
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/terminal.png" />][website]
+
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/python.png" />][website]
+
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/semantic.webp" />][website]
 <br />
 <br />
 
