@@ -175,7 +175,7 @@
 [fiverr]: https://www.fiverr.com/clawn45 
 [upwork]: https://www.upwork.com/freelancers/~01d59fc71a1e549e64
 [truelancer]: https://www.truelancer.com/freelancer/charleskibet
-[freelacer]: https://www.freelancer.com/u/KibetK
+[freelacer]: https://www.freelancer.com
 [guru]: https://www.guru.com/freelancers/charles-kibet
 [latium]: https://latium.org/welcome?welcome_id=K4eo1qN2
 
