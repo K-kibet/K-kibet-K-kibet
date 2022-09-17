@@ -19,7 +19,7 @@
 
 [<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/linkedin.png" />][linkedin]
 
-[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/youtube.png" />][youtube] 
+[<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/youtube.png" />][youtubechannel] 
 
 [<img align="left" alt="kibet" width="22px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/assets/dribble.png" />][dribble]
 
@@ -41,9 +41,9 @@
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/jquery.gif" />][website]
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/framer.png" />][website]
+[<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/framer.png" />]
 
-[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/babel.png" />][website]
+[<img  alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/babel.png" />]
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/mui.png" />][website]
 
@@ -60,6 +60,15 @@
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/python.png" />][website]
 
 [<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/semantic.webp" />][website]
+
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/graphql.png" />][website]
+
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/mysql.png" />][website]
+
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/typescript" />][website]
+
+[<img align="left" alt="kibet" width="30px" src="https://github.com/K-kibet/K-kibet-K-kibet/blob/main/img/terminal.png" />][website]
+
 <br />
 <br />
 
