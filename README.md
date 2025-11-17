@@ -176,11 +176,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Solving Git Authentication Failures: &quot;Password authentication is not supported&quot; Error](https://dev.to/kkibet/solving-git-authentication-failures-password-authentication-is-not-supported-error-n96)
-- [The Complete Guide to Working with Single Folders in Multi-Project GitHub Repositories](https://dev.to/kkibet/the-complete-guide-to-working-with-single-folders-in-multi-project-github-repositories-2ed5)
-- [Where to Host Your Web App: A Complete Guide to Platforms](https://dev.to/kkibet/where-to-host-your-web-app-a-complete-guide-to-platforms-3hc)
-- [How to Install Node.js and Android Development Tools on a Custom Drive in Windows](https://dev.to/k-kibet/how-to-install-nodejs-and-android-development-tools-on-a-custom-drive-in-windows-2fmc)
-- [Your Phone&#39;s Digital ID: How to Find Your User-Agent on Android 14](https://dev.to/kkibet/your-phones-digital-id-how-to-find-your-user-agent-on-android-14-5aen)
+- [How to Remove All Git Commits Locally Without Losing Your Code](https://dev.to/k-kibet/how-to-remove-all-git-commits-locally-without-losing-your-code-1pde)
+- [🧹 How to Clear Cache in Windows Using PowerShell &lpar;Complete Guide&rpar;](https://dev.to/kkibet/how-to-clear-cache-in-windows-using-powershell-complete-guide-419n)
+- [How to Connect Your Namecheap Domain to a Render App &lpar;Step-by-Step Guide&rpar;](https://dev.to/k-kibet/how-to-connect-your-namecheap-domain-to-a-render-app-step-by-step-guide-254j)
+- [🔥 How to Generate a JKS Keystore Without Android Studio &lpar;Complete Guide&rpar;](https://dev.to/kkibet/how-to-generate-a-jks-keystore-without-android-studio-complete-guide-36do)
+- [How to fix: “less than 1MB free space&quot; Warning](https://dev.to/kkibet/how-to-fix-less-than-1mb-free-space-warning-4lhg)
 <!-- BLOG-POST-LIST:END -->
 
 
