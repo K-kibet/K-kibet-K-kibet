@@ -176,11 +176,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [From Development to Production: A Complete Guide to Deploying Node.js Applications on Google Cloud](https://dev.to/k-kibet/from-development-to-production-a-complete-guide-to-deploying-nodejs-applications-on-google-cloud-1cg1)
-- [How to Host Your Website with Namecheap Domain and Render: A Complete Guide with Free SSL](https://dev.to/k-kibet/how-to-host-your-website-with-namecheap-domain-and-render-a-complete-guide-with-free-ssl-5516)
-- [Git Force Push: Bypassing Repository Protection Rules](https://dev.to/kkibet/git-force-push-bypassing-repository-protection-rules-4702)
-- [GitHub Push Protection: How I Fixed the &quot;Repository Rule Violations&quot; Error](https://dev.to/kkibet/github-push-protection-how-i-fixed-the-repository-rule-violations-error-50b8)
-- [Building a Fully-Featured Custom WebView App in Android: Complete Guide](https://dev.to/kkibet/building-a-fully-featured-custom-webview-app-in-android-complete-guide-4lof)
+- [Solving Git Authentication Failures: &quot;Password authentication is not supported&quot; Error](https://dev.to/kkibet/solving-git-authentication-failures-password-authentication-is-not-supported-error-n96)
+- [The Complete Guide to Working with Single Folders in Multi-Project GitHub Repositories](https://dev.to/kkibet/the-complete-guide-to-working-with-single-folders-in-multi-project-github-repositories-2ed5)
+- [Where to Host Your Web App: A Complete Guide to Platforms](https://dev.to/kkibet/where-to-host-your-web-app-a-complete-guide-to-platforms-3hc)
+- [How to Install Node.js and Android Development Tools on a Custom Drive in Windows](https://dev.to/k-kibet/how-to-install-nodejs-and-android-development-tools-on-a-custom-drive-in-windows-2fmc)
+- [Your Phone&#39;s Digital ID: How to Find Your User-Agent on Android 14](https://dev.to/kkibet/your-phones-digital-id-how-to-find-your-user-agent-on-android-14-5aen)
 <!-- BLOG-POST-LIST:END -->
 
 
